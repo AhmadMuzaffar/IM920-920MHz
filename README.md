@@ -1,1 +1,1 @@
-# IM920-LoRa-920MHz
+# Arduino codes for IM920-920MHz
